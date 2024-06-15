@@ -30,3 +30,6 @@ go.work.sum
 ent/**
 !ent/schema
 !ent/schema/*.go
+
+# test example schema
+ent/schema/event.go
